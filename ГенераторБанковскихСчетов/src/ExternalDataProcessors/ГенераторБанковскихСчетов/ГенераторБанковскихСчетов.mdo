@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d4209888-33ee-4b8a-b32b-d6d820d46395">
+  <producedTypes>
+    <objectType typeId="c16c6811-d8dd-4192-bd1f-bb90cd7c8298" valueTypeId="23af3f3b-f3c4-4e1b-8a64-57dcb7d1ddc4"/>
+  </producedTypes>
+  <name>ГенераторБанковскихСчетов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Генератор банковских счетов</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="ab274337-8914-409e-b9b5-f40ce2ddf3cd"/>
+  <defaultForm>ExternalDataProcessor.ГенераторБанковскихСчетов.Form.Форма</defaultForm>
+  <forms uuid="c421f718-7db6-406f-a71c-06542b26e0ac">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
